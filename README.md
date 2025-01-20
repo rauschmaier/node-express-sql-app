@@ -12,7 +12,7 @@
 2. Testen Sie die aktuelle Anwendung:  
    Führen Sie den folgenden Befehl im Terminal aus:  
    ```bash
-   node src/index.js```
+   node src/index.js
 3. Ergänzen Sie die Endpunkt-Authentifizierung gemäß den Schritten im Tutorial.
 
 4. Testen Sie die Authentifizierung:
