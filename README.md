@@ -13,3 +13,10 @@
    Führen Sie den folgenden Befehl im Terminal aus:  
    ```bash
    node src/index.js```
+3. Ergänzen Sie die Endpunkt-Authentifizierung gemäß den Schritten im Tutorial.
+
+4. Testen Sie die Authentifizierung:
+Überprüfen Sie, ob die Authentifizierung wie erwartet funktioniert.
+5. Speichern Sie Ihre Änderungen:
+Führen Sie die entsprechenden git-Befehle im Codespaces-Terminal aus, um Ihre Änderungen zu sichern und hochzuladen.
+Beispiel:
