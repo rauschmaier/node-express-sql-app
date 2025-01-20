@@ -17,6 +17,8 @@
 
 4. Testen Sie die Authentifizierung:
 Überprüfen Sie, ob die Authentifizierung wie erwartet funktioniert.
-5. Speichern Sie Ihre Änderungen:
+5. User hinzufügen:
+   Ergänzen Sie einen Post-Endpoint zum anlegen eines Users.
+7. Speichern Sie Ihre Änderungen:
 Führen Sie die entsprechenden git-Befehle im Codespaces-Terminal aus, um Ihre Änderungen zu sichern und hochzuladen.
 Beispiel:
