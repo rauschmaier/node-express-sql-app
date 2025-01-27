@@ -28,7 +28,7 @@
 1. Öffnen Sie das folgende Repository in Codespaces:  
    [Klicken Sie hier, um das Repository zu öffnen](https://github.com/MicrosoftDocs/node-essentials?tab=readme-ov-file).
 
-2. Wechseln Sie im integrierten Terminal in das Verzeichnis `nodejs-http\3-final-solution`.
+2. Wechseln Sie im integrierten Terminal in das Verzeichnis `nodejs-http\3-final-solution...`.
 
 3. Initialisieren Sie ein neues Node.js-Projekt:
    - `npm init -y`
@@ -43,7 +43,7 @@
 
 7. Finden Sie im Code die Route für den Endpunkt und fügen Sie eine Route hinzu, die es ermöglicht, auf die Ressourcen über den Link der gehosteten Seite zuzugreifen.
 
-8. Wechseln Sie im Terminal in das Verzeichnis `nodejs-http\5-final-solution`.
+8. Wechseln Sie im Terminal in das Verzeichnis `nodejs-http\5-final-solution....`
 
 9. In dieser Version der Anwendung ist nun einer der Endpoints durch eine Authentifizierung geschützt.
 
