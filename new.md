@@ -41,7 +41,7 @@
 
 6. Öffnen Sie den Link zur gehosteten Seite im Browser.
 
-7. Finden Sie im Code die Route für den Endpunkt und fügen Sie eine Route hinzu, die es ermöglicht, auf die Ressourcen über den Link der gehosteten Seite zuzugreifen.
+7. Finden Sie im Code die Route für den Endpunkt und fügen Sie diese zur URL hinzu, um auf die Ressourcen über den Link der gehosteten Seite zuzugreifen.
 
 8. Wechseln Sie im Terminal in das Verzeichnis `nodejs-http\5-final-solution....`
 
@@ -53,7 +53,7 @@
 
 12. Überprüfen Sie, ob der geschützte Endpoint auch mit **Postman** getestet werden kann.
 
-13. Bearbeiten Sie die `readme.md`, um die durchgeführten Änderungen und das Setup zu dokumentieren.
+13. Bearbeiten Sie die Aufgaben der `readme.md'.
 
 
 
